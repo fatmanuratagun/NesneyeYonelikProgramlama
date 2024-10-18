@@ -1,0 +1,14 @@
+C:\Users\atagu\Documents\NesneyeYönelikProgramlama\HAFTA-2\HAFTA-2\bin\Debug\net8.0\HAFTA-2.exe
+C:\Users\atagu\Documents\NesneyeYönelikProgramlama\HAFTA-2\HAFTA-2\bin\Debug\net8.0\HAFTA-2.deps.json
+C:\Users\atagu\Documents\NesneyeYönelikProgramlama\HAFTA-2\HAFTA-2\bin\Debug\net8.0\HAFTA-2.runtimeconfig.json
+C:\Users\atagu\Documents\NesneyeYönelikProgramlama\HAFTA-2\HAFTA-2\bin\Debug\net8.0\HAFTA-2.dll
+C:\Users\atagu\Documents\NesneyeYönelikProgramlama\HAFTA-2\HAFTA-2\bin\Debug\net8.0\HAFTA-2.pdb
+C:\Users\atagu\Documents\NesneyeYönelikProgramlama\HAFTA-2\HAFTA-2\obj\Debug\net8.0\HAFTA-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atagu\Documents\NesneyeYönelikProgramlama\HAFTA-2\HAFTA-2\obj\Debug\net8.0\HAFTA-2.AssemblyInfoInputs.cache
+C:\Users\atagu\Documents\NesneyeYönelikProgramlama\HAFTA-2\HAFTA-2\obj\Debug\net8.0\HAFTA-2.AssemblyInfo.cs
+C:\Users\atagu\Documents\NesneyeYönelikProgramlama\HAFTA-2\HAFTA-2\obj\Debug\net8.0\HAFTA-2.csproj.CoreCompileInputs.cache
+C:\Users\atagu\Documents\NesneyeYönelikProgramlama\HAFTA-2\HAFTA-2\obj\Debug\net8.0\HAFTA-2.dll
+C:\Users\atagu\Documents\NesneyeYönelikProgramlama\HAFTA-2\HAFTA-2\obj\Debug\net8.0\refint\HAFTA-2.dll
+C:\Users\atagu\Documents\NesneyeYönelikProgramlama\HAFTA-2\HAFTA-2\obj\Debug\net8.0\HAFTA-2.pdb
+C:\Users\atagu\Documents\NesneyeYönelikProgramlama\HAFTA-2\HAFTA-2\obj\Debug\net8.0\HAFTA-2.genruntimeconfig.cache
+C:\Users\atagu\Documents\NesneyeYönelikProgramlama\HAFTA-2\HAFTA-2\obj\Debug\net8.0\ref\HAFTA-2.dll
